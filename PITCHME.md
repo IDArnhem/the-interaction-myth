@@ -1,3 +1,46 @@
+---
+#### we are in the
+## "pictures through glass"
+### age of interaction
+
+Note:
+From "A brief rant on the future of Interaction Design", 2011, Bret Victor
++++
+![glasspiano](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/FeelDevice_e8h2rc.jpg)
++++
+### the "pictures through glass" paradigm
+is far older than the touchscreen of our phones
++++
+![windows 95](http://res.cloudinary.com/zilogtastic/image/upload/v1506376449/WIndows_95_bevm6d.png)
++++
+![Tool](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/Tool1_upnuaf.png)
+I like [Bret Victor's](http://www.worrydream.com) definition
+#### a tool addresses human needs by amplifying human capabilities
++++
+![Tool 2](http://res.cloudinary.com/zilogtastic/image/upload/c_mfit,h_420/v1506376281/Tool2_j3mkqo.png)
+A great tool is designed to fit both sides.
++++
+#### the future as seen from 2011
+![future](http://res.cloudinary.com/zilogtastic/image/upload/v1506376281/hands_sjrwis.png)
++++
+![hands!](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/TitleHands_ujslg3.png)
++++
+![hands feel things!](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/TitleFeel_rwk04m.png)
++++
+![book](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/FeelBook_e0s5e7.jpg)
++++
+![hands manipulate things](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/TitleManipulate_a0ejyv.png)
++++
+![this is how we interact with our devices](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/ManipSlide_i4dhsg.jpg)
++++
+![this is where else we use it](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/FingerPaint_afgc5u.jpg)
++++
+![manipulating](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/Hands_wixb1m.jpg)
++++
+![grips](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/Grips_nbp12q.jpg)
++++
+![opening jar](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/Jar_daef6f.jpg)
+---
 ## The Interaction Myth
 ##### the reinvention of Plato's Cave
 +++
@@ -88,46 +131,3 @@ Note: it takes about 10 years for a piece of software to mature
 At the present time we lack a good interaction model for manipulation software, the only one that exists is actually just programming.
 
 Note: which is what you are doing while you are clicking away in Ableton or Solidworks. You are programming.
----
-#### we are in the
-## "pictures through glass"
-### age of interaction
-
-Note:
-From "A brief rant on the future of Interaction Design", 2011, Bret Victor
-+++
-![glasspiano](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/FeelDevice_e8h2rc.jpg)
-+++
-### the "pictures through glass" paradigm
-is far older than the touchscreen of our phones
-+++
-![windows 95](http://res.cloudinary.com/zilogtastic/image/upload/v1506376449/WIndows_95_bevm6d.png)
-+++
-![Tool](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/Tool1_upnuaf.png)
-I like [Bret Victor's](http://www.worrydream.com) definition
-#### a tool addresses human needs by amplifying human capabilities
-+++
-![Tool 2](http://res.cloudinary.com/zilogtastic/image/upload/c_mfit,h_420/v1506376281/Tool2_j3mkqo.png)
-A great tool is designed to fit both sides.
-+++
-#### the future as seen from 2011
-![future](http://res.cloudinary.com/zilogtastic/image/upload/v1506376281/hands_sjrwis.png)
-+++
-![hands!](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/TitleHands_ujslg3.png)
-+++
-![hands feel things!](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/TitleFeel_rwk04m.png)
-+++
-![book](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/FeelBook_e0s5e7.jpg)
-+++
-![hands manipulate things](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/TitleManipulate_a0ejyv.png)
-+++
-![this is how we interact with our devices](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/ManipSlide_i4dhsg.jpg)
-+++
-![this is where else we use it](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/FingerPaint_afgc5u.jpg)
-+++
-![manipulating](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/Hands_wixb1m.jpg)
-+++
-![grips](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/Grips_nbp12q.jpg)
-+++
-![opening jar](http://res.cloudinary.com/zilogtastic/image/upload/v1506377218/Jar_daef6f.jpg)
----
