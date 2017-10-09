@@ -3,6 +3,7 @@
 +++
 What I present here is, in a way, a synthesis of [Bret Victor's research](http://www.worrydream.com). Some of the materials are directly _borrowed_ from his papers. And although this synthesis is my own, credit must go to him for most of this material.
 +++
+![Plato's Cave Allegory](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_460/v1507591141/allegory_of_the_cave.png)
 Note: (insert image) Plato's cave
 +++
 A person normally experiences most software interfaces available today through two channels:
