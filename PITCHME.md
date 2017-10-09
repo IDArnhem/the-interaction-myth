@@ -117,7 +117,7 @@ Software can thus be categorized depending on which of these purposes it serves.
 This can be your web browser or spreadsheet for example.
 +++
 ### Manipulation software
-This can be your 3D modeling tool.
+This can be your 3D modeling tool, video editing, music production, etc.
 
 Note: comparison between interfaces of browser, chat program and 3D modeling software. Another idea is to compare the simple mobile software that we have to consume stock market tickers and the complex Bloomberg workstations that are used by the people who have the power to manipulate those tickers.
 +++
