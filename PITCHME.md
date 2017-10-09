@@ -1,5 +1,3 @@
-
----
 # The Interaction Myth
 #### the reinvention of Plato's Cave
 +++
