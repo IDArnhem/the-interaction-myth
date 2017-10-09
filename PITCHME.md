@@ -1,5 +1,5 @@
-# The Interaction Myth
-#### the reinvention of Plato's Cave
+## The Interaction Myth
+##### the reinvention of Plato's Cave
 +++
 What I present here is, in a way, a synthesis of [Bret Victor's research](http://www.worrydream.com). Some of the materials are directly _borrowed_ from his papers. And although this synthesis is my own, credit must go to him for most of this material.
 +++
