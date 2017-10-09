@@ -15,8 +15,7 @@ Note: This can be by using a mouse as a proxy finger, or since the popularizatio
 +++
 Software interface design primarily involves the design of two kinds of artifacts:
 
-- pictures
-- and things to push
+#### _pictures_ and _things to push_
 
 (for the purpose of this discussion we shall consider websites, web apps and mobile app to be _a kind of software interface_)
 +++
