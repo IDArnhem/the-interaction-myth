@@ -81,8 +81,8 @@ Note: comparison between interfaces of browser, chat program and 3D modeling sof
 ### Communication software
 This can be your chat or email program.
 +++
-## Manipulation software is supremely hard
-###### Information and communication are domains that are much more amenable to be consumed and produced in a computer
+#### Manipulation software is supremely hard
+information and communication are domains that are much more amenable to be consumed and produced in a computer
 Note: it takes about 10 years for a piece of software to mature
 +++
 At the present time we lack a good interaction model for manipulation software, the only one that exists is actually just programming.
