@@ -1,18 +1,20 @@
 ## The Interaction Myth
 ##### the reinvention of Plato's Cave
 +++
-What I present here is, in a way, a synthesis of [Bret Victor's research](http://www.worrydream.com). Some of the materials are directly _borrowed_ from his papers. And although this synthesis is my own, credit must go to him for most of this material.
-+++
 ![Plato's Cave Allegory](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_460/v1507591141/allegory_of_the_cave.png)
 Note: (insert image) Plato's cave
 +++
+What I present here is, in a way, a synthesis of [Bret Victor's research](http://www.worrydream.com). Some of the materials are directly _borrowed_ from his papers. And although this synthesis is my own, credit must go to him for most of this material.
++++
 A person normally experiences most software interfaces available today through two channels:
+
   - She reads and interprets pictures on a screen
   - She points and pushes at things _represented_ on the screen.
 
   This can be by using a mouse as a proxy finger, or since the popularization of touch screens by directly using their finger to touch a capacitive screen.
 +++
 Software interface design primarily involves the design of two kinds of artifacts:
+
   - pictures
   - and things to push
 
