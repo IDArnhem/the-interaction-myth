@@ -8,17 +8,17 @@ What I present here is, in a way, a synthesis of [Bret Victor's research](http:/
 +++
 A person normally experiences most software interfaces available today through two channels:
 
-  - She reads and interprets pictures on a screen
-  - She points and pushes at things _represented_ on the screen.
+- She reads and interprets pictures on a screen
+- She points and pushes at things _represented_ on the screen.
 
-  This can be by using a mouse as a proxy finger, or since the popularization of touch screens by directly using their finger to touch a capacitive screen.
+Note: This can be by using a mouse as a proxy finger, or since the popularization of touch screens by directly using their finger to touch a capacitive screen.
 +++
 Software interface design primarily involves the design of two kinds of artifacts:
 
-  - pictures
-  - and things to push
+- pictures
+- and things to push
 
-  (for the purpose of this discussion we shall consider websites, web apps and mobile app to be _a kind of software interface_)
+(for the purpose of this discussion we shall consider websites, web apps and mobile app to be _a kind of software interface_)
 +++
 ## Designing Pictures
 is traditionally the realm of **Graphic Design**, the aim of which is to convey a message on a two-dimensional surface.
