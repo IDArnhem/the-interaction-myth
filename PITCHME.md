@@ -1,12 +1,12 @@
 ---
+![glasspiano](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/FeelDevice_e8h2rc.jpg)
++++
 #### we are in the
 ## "pictures through glass"
 ### age of interaction
 
 Note:
 From "A brief rant on the future of Interaction Design", 2011, Bret Victor
-+++
-![glasspiano](http://res.cloudinary.com/zilogtastic/image/upload/v1506376280/FeelDevice_e8h2rc.jpg)
 +++
 ### the "pictures through glass" paradigm
 is far older than the touchscreen of our phones
